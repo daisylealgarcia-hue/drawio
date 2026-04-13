@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-16" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="1055" width="470" x="170" y="10" as="geometry" />
+          <mxGeometry height="1055" width="500" x="170" y="10" as="geometry" />
         </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-17" parent="3S4s60rjY2Iyz9xnvlO6-16" style="swimlane;startSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;whiteSpace=wrap;spacing=1;" value="Sales Department" vertex="1">
-          <mxGeometry height="1035" width="190" y="20" as="geometry" />
+          <mxGeometry height="1035" width="210" y="20" as="geometry" />
         </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-22" edge="1" parent="3S4s60rjY2Iyz9xnvlO6-17" source="3S4s60rjY2Iyz9xnvlO6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3S4s60rjY2Iyz9xnvlO6-21">
           <mxGeometry relative="1" as="geometry" />
@@ -56,13 +56,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-42" parent="3S4s60rjY2Iyz9xnvlO6-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes - Approved&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="100" y="320" as="geometry" />
+          <mxGeometry height="30" width="60" x="116.25" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-43" parent="3S4s60rjY2Iyz9xnvlO6-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;No-Rejected&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="6.25" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="dyKYlCjYYQ9T6l7oXE5r-6" edge="1" parent="3S4s60rjY2Iyz9xnvlO6-17" source="dyKYlCjYYQ9T6l7oXE5r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyKYlCjYYQ9T6l7oXE5r-1" parent="3S4s60rjY2Iyz9xnvlO6-17" style="html=1;dashed=1;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Control Activity CA-01: To mitigate the risk of bad debt and ensure the customer has sufficient credit to fulfill payment obligations before processing the order&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="260" as="geometry" />
+        </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-18" parent="3S4s60rjY2Iyz9xnvlO6-16" style="swimlane;startSize=20;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Tahoma&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1035" width="160" x="190" y="20" as="geometry" />
+          <mxGeometry height="1035" width="170" x="210" y="20" as="geometry" />
         </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-44" parent="3S4s60rjY2Iyz9xnvlO6-18" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Sales Order Received by Warehouse&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="110" x="20" y="30" as="geometry" />
@@ -105,17 +113,17 @@
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-61" parent="3S4s60rjY2Iyz9xnvlO6-18" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FF3D5D);fontColor=#ffffff;strokeColor=#6F0000;" value="Continued Page 2" vertex="1">
           <mxGeometry height="80" width="80" x="70" y="950" as="geometry" />
         </mxCell>
+        <mxCell id="3S4s60rjY2Iyz9xnvlO6-52" parent="3S4s60rjY2Iyz9xnvlO6-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;No- Out of Stock&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3S4s60rjY2Iyz9xnvlO6-57" parent="3S4s60rjY2Iyz9xnvlO6-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes-In Stock&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="260" as="geometry" />
+        </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-19" parent="3S4s60rjY2Iyz9xnvlO6-16" style="swimlane;startSize=20;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Garamond&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Billing/Accounts Receivable&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1035" width="120" x="350" y="20" as="geometry" />
+          <mxGeometry height="1035" width="120" x="380" y="20" as="geometry" />
         </mxCell>
         <mxCell id="3S4s60rjY2Iyz9xnvlO6-45" edge="1" parent="3S4s60rjY2Iyz9xnvlO6-16" source="3S4s60rjY2Iyz9xnvlO6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3S4s60rjY2Iyz9xnvlO6-44">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3S4s60rjY2Iyz9xnvlO6-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;No- Out of Stock&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="360" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="3S4s60rjY2Iyz9xnvlO6-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes-In Stock&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="470" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
