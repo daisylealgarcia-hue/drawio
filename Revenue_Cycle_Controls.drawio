@@ -133,7 +133,7 @@
       <root>
         <mxCell id="FUIFER4116jYI6KJDtKo-0" />
         <mxCell id="FUIFER4116jYI6KJDtKo-1" parent="FUIFER4116jYI6KJDtKo-0" />
-        <mxCell id="FUIFER4116jYI6KJDtKo-2" parent="FUIFER4116jYI6KJDtKo-1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
+        <mxCell id="FUIFER4116jYI6KJDtKo-2" parent="FUIFER4116jYI6KJDtKo-1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
           <mxGeometry height="1055" width="485" x="170" y="10" as="geometry" />
         </mxCell>
         <mxCell id="FUIFER4116jYI6KJDtKo-3" parent="FUIFER4116jYI6KJDtKo-2" style="swimlane;startSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;whiteSpace=wrap;spacing=1;" value="Sales Department" vertex="1">
